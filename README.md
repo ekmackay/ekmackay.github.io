@@ -2,7 +2,7 @@
 
 I am a scientific advisor in statistics and founding member at Inka Health. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
-For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approaches, [see here for an article co-authored with my colleague](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
+For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
 # Recent Conference Presentations
 
