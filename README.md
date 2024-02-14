@@ -18,8 +18,8 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Publications
 
-- **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. https://doi.org/10.5281/zenodo.10001953
-- Springford A, **Mackay EK**. A Note on the Misspecification of the Random Effects Distribution in the Bayesian Analysis of Basket Trials with Time-to-Event Endpoints. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. https://doi.org/10.5281/zenodo.10002223
+- **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10001953](https://doi.org/10.5281/zenodo.10001953)
+- Springford A, **Mackay EK**. A Note on the Misspecification of the Random Effects Distribution in the Bayesian Analysis of Basket Trials with Time-to-Event Endpoints. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10002223](https://doi.org/10.5281/zenodo.10002223)
 - **Mackay EK**, Springford A. Evaluating Treatments in Rare Indications Warrants a Bayesian Approach. Frontiers in Pharmacology. 2023 Sep.
 - Boyne DJ, Brenner DR, Gupta A, **Mackay E**, Arora P, Wasiak R, Cheung WY, Hernán MA. Head-to-head comparison of front-line FOLFIRINOX versus Gemcitabine plus Nab-Paclitaxel among Individuals with Advanced Pancreatic Cancer in a Real-World Setting - A Target Trial Emulation. Annals of Epidemiology. 2023 Feb.
 - Chaudhary MA, Edmondson-Jones M, Baio G, **Mackay E**, Penrod JR, Sharpe DJ, Yates G, Rafiq S, Johannesen K, Siddiqui MK, Vanderpuye-Orgle J, Briggs A. Use of advanced flexible modelling approaches for survival extrapolation from early follow-up data in two nivolumab trials in advanced NSCLC with extended follow-up. Medical Decision Making. 2022 Oct.
