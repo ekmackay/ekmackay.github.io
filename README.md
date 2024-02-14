@@ -2,6 +2,8 @@
 
 I am a scientific advisor in statistics and founding member at Inka Health. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
+For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approaches, [see here for an article co-authored with my colleague](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
+
 # Recent Conference Presentations
 
 - Heeg B, Dias S, **Mackay E**. Basket Weaving: Can Bayes Help Us Develop a Better Path for Evaluating Efficacy in Basket Trials? (Workshop presented at ISPOR Europe 2023 in Copenhagen, Denmark; co-presenters: Bart Heeg, Sofia Dias)
@@ -10,7 +12,9 @@ I am a scientific advisor in statistics and founding member at Inka Health. I sp
 
 # Upcoming Conference Presentations
 
-Under construction
+- Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Beth Devine, Yilin Chen, Daniel Ollendorf)
+- Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Paul Arora, Aaron Springford, Alimu Dayimu)
+- The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health. (Forthcoming SSC 2024 session in St. John's, NL; co-presenters: Audrey Beliveau, Anna Heath; Chair: Caitlin H Daly; Organizer: Aaron Springford)
 
 # Publications
 
@@ -27,4 +31,8 @@ Under construction
 
 # Selected Research Abstracts
 
-Under construction
+- **Mackay E**, Springford A, Heeg B, Arora P, Thorlund K. Combating Sample Scarcity: A Novel Bayesian Approach to Pediatric Basket Trials. 2023. (Poster presented at ISPOR Europe 2023 in Copenhagen, Denmark)
+- Strübing A, McKibbon C, Ruan H, **Mackay E**, Dennis N, Velummailum R, He P, Tanaka Y, Xiong Y, Springford A, Rosenlund M. Augmenting Synthetic Control Arms Using Bayesian Borrowing: A Case Study in First-Line Non-Small Cell Lung Cancer. 2023 (Poster presented at ISPOR Europe 2023 in Copenhagen, Denmark)
+- **Mackay E**, Springford A, Nagamuthu C, Dron L, Dias S. Bayesian Hierarchical Models for Indirect Treatment Comparisons of Histology-independent Therapies for Survival Outcomes. Value in Health. 2023 Jun. (Poster presented at ISPOR 2023 in Boston, MA).
+- **Mackay E**, Springford A, Nagamuthu C, Dron L. A Bayesian Hierarchical Modelling Approach for Indirect Comparison of Response Outcomes in Histology-Independent Therapies. Value in Health. 2022 Dec. (Poster presented at ISPOR Europe 2022)
+- **Mackay E**, Chaudhary MA, Vanderpuye-Orgle J, Edmonson-Jones M, Rafiq S, Siddiqui MK, Teitsson S, Juarez-Garcia A, Penrod JR. Using Mixture Cure Models to Improve Survival Extrapolations from EARLY Follow-up DATA for Nivolumab in NSCLC. 2020. (Poster presentation at ISPOR EU 2021 conference)
