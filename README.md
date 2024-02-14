@@ -22,7 +22,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 - Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Paul Arora, Aaron Springford, Alimu Dayimu)
 - The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health. (Forthcoming SSC 2024 session in St. John's, NL; co-presenters: Audrey Beliveau, Anna Heath; Chair: Caitlin H Daly; Organizer: Aaron Springford)
 
-# Publications
+# Publications and Preprints
 
 - **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10001953](https://doi.org/10.5281/zenodo.10001953)
 - Springford A, **Mackay EK**. A Note on the Misspecification of the Random Effects Distribution in the Bayesian Analysis of Basket Trials with Time-to-Event Endpoints. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10002223](https://doi.org/10.5281/zenodo.10002223)
