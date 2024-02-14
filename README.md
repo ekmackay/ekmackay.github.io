@@ -2,6 +2,12 @@
 
 I am a scientific advisor in statistics and founding member at Inka Health. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
+Prior to joining Inka Health, I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
+
+Throughout my time working as a statistician I have been a proponent of good quality control practices, reproducibility and scientific rigour. I have also had the privilege of supervising and mentoring a team of statisticians at Cytel where I endeavoured to foster a culture which encouraged professional development, collaboration, and sound research practices. I have extensive experience collaborating with diverse teams of medical/scientific professionals to conduct research on various medical topics, and have a track record of publishing in scientific journals.
+
+I hold an MSc in Statistics from the University of Toronto and an MA in Economics from Queen's University.
+
 For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
 # Recent Conference Presentations
