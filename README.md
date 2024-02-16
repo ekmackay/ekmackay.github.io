@@ -1,4 +1,4 @@
-![blank](/docs/assets/images/blank.jpg)
+![blank](/docs/assets/images/blank.png)
 
 # Bio
 
