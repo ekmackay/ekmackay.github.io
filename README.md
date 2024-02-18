@@ -15,7 +15,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 # Recent Conference Presentations
 
 - Heeg B, Dias S, **Mackay E**. Basket Weaving: Can Bayes Help Us Develop a Better Path for Evaluating Efficacy in Basket Trials? (Workshop presented at ISPOR Europe 2023 in Copenhagen, Denmark; co-presenters: Bart Heeg, Sofia Dias)
-- **Mackay EK**, Springford A, Heeg B, Arora P, Thorlund K. A Novel Information Borrowing Approach for Evaluating Response in Pediatric Basket Trials with Limited Sample Sizes. 2023. (Talk presented at the Bayes 2023 Bayesian Biostatistics Conference in Utrecht, Netherlands)
+- **Mackay EK**, Springford A, Heeg B, Arora P, Thorlund K. A Novel Information Borrowing Approach for Evaluating Response in Pediatric Basket Trials with Limited Sample Sizes. 2023. ([Talk presented at the Bayes 2023 Bayesian Biostatistics Conference in Utrecht, Netherlands](https://bayes-pharma.org/wp-content/uploads/2023/11/03-MACKAY-A-Novel-Information-Borrowing-Approach-for-Evaluating-Response-in-Pediatric-Basket-Trials-with-Limited-Sample-Sizes.pdf))
 - **Mackay E**, Springford A. Power implications of estimator choice in synthetic control arm analyses: Results from a simulation comparing average treatment effects on the treated and untreated under propensity score weighting. 2022. (Podium presentation at ISPOR US 2022 conference)
 
 # Upcoming Conference Presentations
