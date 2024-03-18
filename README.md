@@ -26,7 +26,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Recent Invited Presentations
 
-- Bayesian Borrowing Methods for Clinical Trials in Rare Indications (invited Xactly Speaking talk at Cytel)
+- Bayesian Borrowing Methods for Clinical Trials in Rare Indications (invited March 2024 Xactly Speaking talk at Cytel)
 
 # Publications and Preprints
 
