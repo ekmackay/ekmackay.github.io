@@ -21,6 +21,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 - Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Beth Devine, Yilin Chen, Daniel Ollendorf)
 - Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Paul Arora, Aaron Springford, Alimu Dayimu)
 - The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health. (Forthcoming SSC 2024 session in St. John's, NL; co-presenters: Audrey Beliveau, Anna Heath; Chair: Caitlin H Daly; Organizer: Aaron Springford)
+- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming JSM 2024 presentation in the "Bayesian methods and applications in clinical trials" session)
 
 # Recent Invited Presentations
 
@@ -28,6 +29,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Publications and Preprints
 
+- Struebing A, McKibbon C, Ruan H, **Mackay E**, Dennis N, Velummailum R, He P, Tanaka Y, Xiong Y, Springford A, Rosenlund M. Augmenting external control arms using Bayesian borrowing: a case study in first-line non-small cell lung cancer. Journal of Comparative Effectiveness Research. 2024 Apr. [https://doi.org/10.57264/cer-2023-0175](https://doi.org/10.57264/cer-2023-0175)
 - **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10001953](https://doi.org/10.5281/zenodo.10001953)
 - Springford A, **Mackay EK**. A Note on the Misspecification of the Random Effects Distribution in the Bayesian Analysis of Basket Trials with Time-to-Event Endpoints. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10002223](https://doi.org/10.5281/zenodo.10002223)
 - **Mackay EK**, Springford A. Evaluating Treatments in Rare Indications Warrants a Bayesian Approach. Frontiers in Pharmacology. 2023 Sep. [https://doi.org/10.3389/fphar.2023.1249611](https://doi.org/10.3389/fphar.2023.1249611)
