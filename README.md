@@ -20,8 +20,8 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 - Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Beth Devine, Yilin Chen, Daniel Ollendorf)
 - Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Forthcoming ISPOR 2024 workshop in Atlanta, GA; co-presenters: Paul Arora, Aaron Springford, Alimu Dayimu)
-- The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health. (Forthcoming SSC 2024 session in St. John's, NL; co-presenters: Audrey Beliveau, Anna Heath; Chair: Caitlin H Daly; Organizer: Aaron Springford)
-- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming JSM 2024 presentation in the "Bayesian methods and applications in clinical trials" session)
+- Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Forthcoming presentation at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
+- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming presentation at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
 
 # Recent Invited Presentations
 
