@@ -1,4 +1,4 @@
-![headshot](/docs/assets/images/headshot_300x302.png)
+![headshot](/docs/assets/images/headshot_20240322_300x314.png)
 
 # Bio
 
