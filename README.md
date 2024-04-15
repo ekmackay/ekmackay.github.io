@@ -10,7 +10,7 @@ I hold an MSc in Statistics from the University of Toronto and an MA in Economic
 
 For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
-# Upcoming Presentations
+# Upcoming Talks
 
 - Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (Upcoming April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
 - Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Forthcoming workshop at ISPOR 2024 in Atlanta, GA; co-presenters: Beth Devine, Yilin Chen, Daniel Ollendorf)
