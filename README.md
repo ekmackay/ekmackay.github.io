@@ -30,6 +30,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Publications and Preprints
 
+- Arora P, Gupta A, **Mackay E**, Heeg B, Thorlund K. The Inflation Reduction Act: An Opportunity to Accelerate Confidence in US Real-World Evidence. Value in Health. 2024 Apr. [https://doi.org/10.1016/j.jval.2024.04.007](https://doi.org/10.1016/j.jval.2024.04.007)
 - Struebing A, McKibbon C, Ruan H, **Mackay E**, Dennis N, Velummailum R, He P, Tanaka Y, Xiong Y, Springford A, Rosenlund M. Augmenting external control arms using Bayesian borrowing: a case study in first-line non-small cell lung cancer. Journal of Comparative Effectiveness Research. 2024 Apr. [https://doi.org/10.57264/cer-2023-0175](https://doi.org/10.57264/cer-2023-0175)
 - **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10001953](https://doi.org/10.5281/zenodo.10001953)
 - Springford A, **Mackay EK**. A Note on the Misspecification of the Random Effects Distribution in the Bayesian Analysis of Basket Trials with Time-to-Event Endpoints. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10002223](https://doi.org/10.5281/zenodo.10002223)
