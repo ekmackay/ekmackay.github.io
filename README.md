@@ -12,20 +12,20 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Upcoming Talks
 
-- Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (Upcoming April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
-- Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Forthcoming workshop at ISPOR 2024 in Atlanta, GA; co-presenters: Beth Devine, Yilin Chen, Daniel Ollendorf)
-- Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Forthcoming workshop at ISPOR 2024 in Atlanta, GA; co-presenters: Paul Arora, Aaron Springford, Alimu Dayimu)
 - Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Forthcoming presentation at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
 - Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming presentation at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
 
 # Recent Conference Presentations
 
-- Heeg B, Dias S, **Mackay E**. Basket Weaving: Can Bayes Help Us Develop a Better Path for Evaluating Efficacy in Basket Trials? (Workshop presented at ISPOR Europe 2023 in Copenhagen, Denmark; co-presenters: Bart Heeg, Sofia Dias)
+- Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Workshop at ISPOR 2024 in Atlanta, GA; presenters: Beth Devine, Yilin Chen, **Emma Mackay**, Daniel Ollendorf)
+- Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Workshop at ISPOR 2024 in Atlanta, GA; presenters: Paul Arora, **Emma Mackay**, Aaron Springford)
+- Basket Weaving: Can Bayes Help Us Develop a Better Path for Evaluating Efficacy in Basket Trials? (Workshop presented at ISPOR Europe 2023 in Copenhagen, Denmark; presenters: Bart Heeg, Sofia Dias, **Emma Mackay**)
 - **Mackay EK**, Springford A, Heeg B, Arora P, Thorlund K. A Novel Information Borrowing Approach for Evaluating Response in Pediatric Basket Trials with Limited Sample Sizes. 2023. ([Talk presented at the Bayes 2023 Bayesian Biostatistics Conference in Utrecht, Netherlands](https://bayes-pharma.org/wp-content/uploads/2023/11/03-MACKAY-A-Novel-Information-Borrowing-Approach-for-Evaluating-Response-in-Pediatric-Basket-Trials-with-Limited-Sample-Sizes.pdf))
 - **Mackay E**, Springford A. Power implications of estimator choice in synthetic control arm analyses: Results from a simulation comparing average treatment effects on the treated and untreated under propensity score weighting. 2022. (Podium presentation at ISPOR US 2022 conference)
 
 # Recent Invited Presentations
 
+- Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
 - Bayesian Borrowing Methods for Clinical Trials in Rare Indications (invited March 2024 Xactly Speaking talk at Cytel)
 
 # Publications and Preprints
