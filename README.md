@@ -6,7 +6,7 @@ I am a scientific advisor in statistics and founding member at [Inka Health](htt
 
 Prior to joining Inka Health, I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
 
-I hold an MSc in Statistics from the University of Toronto and an MA in Economics from Queen's University.
+I hold an MSc in Statistics from the University of Toronto and an MA in Economics from Queen's University. I also have Professional Statistician (P.Stat.) accreditation from the Statistical Society of Canada.
 
 For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
@@ -25,6 +25,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Recent Invited Talks
 
+- Bayesian borrowing approaches for rare disease settings: applications to basket trials and pediatric studies (June 26, 2024 talk for the IMPaCT Lab at The Hospital for Sick Children (SickKids), Toronto, Canada)
 - Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
 - Bayesian Borrowing Methods for Clinical Trials in Rare Indications (invited March 2024 Xactly Speaking talk at Cytel)
 
