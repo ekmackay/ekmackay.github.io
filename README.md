@@ -12,7 +12,8 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Upcoming Talks
 
-- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming presentation at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
+- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming talk at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
+- Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Forthcoming talk at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
 
 # Recent Conference Presentations
 
