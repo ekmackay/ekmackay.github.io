@@ -12,12 +12,12 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Upcoming Talks
 
-- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Forthcoming talk at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
 - Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Forthcoming talk at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
 
 # Recent Conference Presentations
 
-- Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Presentation at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
+- Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Presented at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
+- Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Presented at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
 - Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Workshop at ISPOR 2024 in Atlanta, GA; presenters: Beth Devine, Yilin Chen, **Emma Mackay**, Daniel Ollendorf)
 - Outside Help: Can Bayesian Borrowing Help Supplement Limited Sample Sizes in Pediatric and Rare Disease Trials While Mitigating Risk of Bias? (Workshop at ISPOR 2024 in Atlanta, GA; presenters: Paul Arora, **Emma Mackay**, Aaron Springford)
 - Basket Weaving: Can Bayes Help Us Develop a Better Path for Evaluating Efficacy in Basket Trials? (Workshop presented at ISPOR Europe 2023 in Copenhagen, Denmark; presenters: Bart Heeg, Sofia Dias, **Emma Mackay**)
