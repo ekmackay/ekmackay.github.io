@@ -14,7 +14,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 - Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Forthcoming talk at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
 
-# Recent Conference Presentations
+# Recent Conference Oral Presentations
 
 - Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Presented at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
 - Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Presented at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
