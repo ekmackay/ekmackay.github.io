@@ -13,7 +13,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 # Upcoming Talks
 
 - Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Forthcoming talk at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
-- **Mackay EK**, Springford A, Dias S. Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Forthcoming podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
+- Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Forthcoming podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
 
 # Recent Conference Oral Presentations
 
