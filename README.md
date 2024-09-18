@@ -27,6 +27,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Recent Invited Talks
 
+- External Control Arm Methods in Practice (Sept. 10, 2024 talk for the Xu Lab at the University Health Network (UHN), Toronto, Canada)
 - Bayesian borrowing approaches for rare disease settings: applications to basket trials and pediatric studies (June 26, 2024 talk for the IMPaCT Lab at The Hospital for Sick Children (SickKids), Toronto, Canada)
 - Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
 - Bayesian Borrowing Methods for Clinical Trials in Rare Indications (invited March 2024 Xactly Speaking talk at Cytel)
