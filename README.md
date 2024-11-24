@@ -10,13 +10,10 @@ I hold an MSc in Statistics from the University of Toronto and an MA in Economic
 
 For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
-# Upcoming Talks
-
-- Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Forthcoming talk at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
-- Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Forthcoming podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
-
 # Recent Conference Oral Presentations
 
+- **Mackay EK**, Springford A, Dias S. Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
+- **Mackay EK**, Springford A, Dias S. Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Presented at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
 - Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Presented at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials")
 - Bayesian borrowing approaches to address the challenges of evaluating efficacy/effectiveness in rare indications: applications to basket trials and pediatric studies. (Presented at SSC 2024 in St. John's, NL; session: "The Bayesian Edge: Novel Applications of Bayesian Methods to Clinical Research, Indirect Treatment Comparison, and Public Health")
 - Addressing Key Challenges in the Setting of Tumor-Agnostic Drugs: Meeting an Unmet Need? (Workshop at ISPOR 2024 in Atlanta, GA; presenters: Beth Devine, Yilin Chen, **Emma Mackay**, Daniel Ollendorf; [slides available here](https://www.ispor.org/docs/default-source/intl2024/ispor24mackay310presentation.pdf?sfvrsn=f2a550a0_0))
