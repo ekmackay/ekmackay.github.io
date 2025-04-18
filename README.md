@@ -2,7 +2,7 @@
 
 # Bio
 
-I am a Scientific Advisor for [GEMINI Research](https://geminimedicine.ca/) at Unity Health Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
+I am a statistician and methodologist working as a Scientific Advisor for [GEMINI Research](https://geminimedicine.ca/) at Unity Health Toronto. I am also an Adjunct Lecturer in the Institute of Health Policy, Management and Evaluation (IHPME) at the University of Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
 Prior to joining GEMINI, I worked as a Scientific Advisor in Statistics and independent consultant for Inka Health. Before that I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
 
