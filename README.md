@@ -2,9 +2,9 @@
 
 # Bio
 
-I am a statistician and methodologist working as a Scientific Advisor for [GEMINI Research](https://geminimedicine.ca/) at Unity Health Toronto. I am also an Adjunct Lecturer in the Institute of Health Policy, Management and Evaluation (IHPME) at the University of Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
+I am an independent statistical consultant and an Adjunct Lecturer in the Institute of Health Policy, Management and Evaluation (IHPME) at the University of Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
-Prior to joining GEMINI, I worked as a Scientific Advisor in Statistics and independent consultant for Inka Health. Before that I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
+I have worked as a scientific advisor for several companies / research groups, including GEMINI Research at St. Michael's Hospital, and Inka Health. Before that I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
 
 I hold an MSc in Statistics from the University of Toronto and an MA in Economics from Queen's University. I also have Professional Statistician (P.Stat.) accreditation from the Statistical Society of Canada.
 
@@ -12,6 +12,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Recent Conference Oral Presentations
 
+- **Mackay EK**, Springford A. The Challenge of Precision Medicine in Oncology: Bayesian Solutions for a Changing Landscape in Health Technology Assessment. (Talk at the Bayesian Biostatistics Conference--Bayes 2025--in Leiden, NL)
 - **Mackay EK**, Springford A, Dias S. Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
 - **Mackay EK**, Springford A, Dias S. Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Presented at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
 - Benefits of Bayesian Priors as Regularizers in Challenging Meta-analysis Settings (Presented at JSM 2024 in Portland, OR; session: "Bayesian methods and applications in clinical trials"; <a href="/docs/assets/Mackay_JSM2024_Priors_Meta-analysis_v2.0.pdf">slides available here</a>)
