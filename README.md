@@ -25,7 +25,7 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 # Recent Invited Talks
 
-- Bayes and Baskets: Recent Developments in Bayesian Hierarchical Modelling for Basket Trials (Apr. 22, 2024 talk at the Canadian Bayesian Adaptive Trials Network (CanBAT) meeting)
+- Bayes and Baskets: Recent Developments in Bayesian Hierarchical Modelling for Basket Trials (Apr. 22, 2025 talk at the Canadian Bayesian Adaptive Trials Network (CanBAT) meeting)
 - External Control Arm Methods in Practice (Sept. 10, 2024 talk for the Xu Lab at the University Health Network (UHN), Toronto, Canada; <a href="/docs/assets/Mackay_UHN_Xu_Lab_Presentation_v3.0.pdf">slides available here</a>)
 - Bayesian borrowing approaches for rare disease settings: applications to basket trials and pediatric studies (June 26, 2024 talk for the IMPaCT Lab at The Hospital for Sick Children (SickKids), Toronto, Canada; <a href="/docs/assets/IMPaCT_Lab_2024Jun26_Presentation.pdf">slides available here</a>)
 - Borrowing Strength: Applications of Bayesian Methods to Clinical Trials in Rare Diseases (April 18 2024 talk at the The Applied Biostatistics Association (TABA) knowledge sharing and networking meeting)
