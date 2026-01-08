@@ -10,7 +10,7 @@ I hold an MSc in Statistics from the University of Toronto and an MA in Economic
 
 For a recent perspective on evaluating treatments for rare indications and the benefits of a Bayesian approach, [see here for an article I co-authored](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1249611/full).
 
-I also enjoy doing film photography in my free time and <a href="/photography.md">a gallery of some of my photos can be found here</a>.
+I also enjoy doing film photography in my free time and <a href="/photography.html">a gallery of some of my photos can be found here</a>.
 
 # Recent Conference Oral Presentations
 
