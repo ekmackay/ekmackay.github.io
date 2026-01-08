@@ -1,5 +1,5 @@
 # Selected Film Photography
 
-| ![test](/docs/assets/images/headshot_nov_2024_300x416.png) | ![test](/docs/assets/images/headshot_nov_2024_300x416.png) |
+| ![Photo 001](/docs/assets/images/photo001_thumb.png) | ![Photo 002](/docs/assets/images/photo002_thumb.png) |
 | --- | --- |
-| ![test](/docs/assets/images/headshot_nov_2024_300x416.png) | ![test](/docs/assets/images/headshot_nov_2024_300x416.png) |
+| ![Photo 001](/docs/assets/images/photo001_thumb.png) | ![Photo 001](/docs/assets/images/photo001_thumb.png) |
