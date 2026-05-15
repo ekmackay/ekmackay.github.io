@@ -2,7 +2,7 @@
 
 # Bio
 
-I am an independent statistical consultant and an Adjunct Lecturer in the Institute of Health Policy, Management and Evaluation (IHPME) at the University of Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
+I am a Senior Consultant at IQVIA and an Adjunct Lecturer in the Institute of Health Policy, Management and Evaluation (IHPME) at the University of Toronto. I specialize in Bayesian methods and causal inference for medical research. My recent work has focused on applying Bayesian borrowing to address the challenges of evaluating efficacy/effectiveness in rare disease settings. I have extensive experience in health economics & outcomes research (HEOR) analytics with expertise in meta-analysis, survival modelling, synthetic control arms, and population-adjusted indirect comparisons.
 
 I have worked as a scientific advisor for several companies / research groups, including GEMINI Research at St. Michael's Hospital, and Inka Health. Before that I worked for 4 years at Cytel in the Real World & Advanced Analytics group where I rose to the role of Research Principal in Statistics. I also have prior experience working in an economics setting, including 2 years in the Antitrust & Competition Economics practice at Charles River Associates applying statistical/econometric methods for regulatory reviews of mergers and acquisitions.
 
@@ -35,6 +35,7 @@ I also enjoy doing film photography in my free time and <a href="/photography.ht
 
 # Publications and Preprints
 
+- **Mackay EK**, Verma AA, Razak F, Roberts SB. Propensity Score Weighting to Ensure Balance in Key Subgroups or Strata: A Practical Guide. arXiv preprint arXiv:2604.14407. 2026. [https://arxiv.org/abs/2604.14407](https://arxiv.org/abs/2604.14407)
 - Arora P, Gupta A, **Mackay E**, Heeg B, Thorlund K. The Inflation Reduction Act: An Opportunity to Accelerate Confidence in US Real-World Evidence. Value in Health. 2024 Apr. [https://doi.org/10.1016/j.jval.2024.04.007](https://doi.org/10.1016/j.jval.2024.04.007)
 - Struebing A, McKibbon C, Ruan H, **Mackay E**, Dennis N, Velummailum R, He P, Tanaka Y, Xiong Y, Springford A, Rosenlund M. Augmenting external control arms using Bayesian borrowing: a case study in first-line non-small cell lung cancer. Journal of Comparative Effectiveness Research. 2024 Apr. [https://doi.org/10.57264/cer-2023-0175](https://doi.org/10.57264/cer-2023-0175)
 - **Mackay EK**, Springford A. Impact of Hyperprior Choice for Bayesian Dynamic Borrowing via a Normalized Power Prior. JSM Proceedings. Alexandria, VA: American Statistical Association. 2023 Oct. [https://doi.org/10.5281/zenodo.10001953](https://doi.org/10.5281/zenodo.10001953)
