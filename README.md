@@ -60,3 +60,7 @@ I also enjoy doing film photography in my free time and <a href="/photography.ht
 - **Mackay E**, Springford A, Nagamuthu C, Dron L, Dias S. Bayesian Hierarchical Models for Indirect Treatment Comparisons of Histology-independent Therapies for Survival Outcomes. Value in Health. 2023 Jun. ([Poster presented at ISPOR 2023 in Boston, MA](https://www.ispor.org/docs/default-source/intl2023/ispor23mackaypostermsr73127461-pdf.pdf?sfvrsn=70217ae_0)).
 - **Mackay E**, Springford A, Nagamuthu C, Dron L. A Bayesian Hierarchical Modelling Approach for Indirect Comparison of Response Outcomes in Histology-Independent Therapies. Value in Health. 2022 Dec. ([Poster presented at ISPOR Europe 2022](https://www.ispor.org/docs/default-source/euro2022/isporeu22mackay-pdf.pdf?sfvrsn=bacf251f_0)) 
 - **Mackay E**, Chaudhary MA, Vanderpuye-Orgle J, Edmonson-Jones M, Rafiq S, Siddiqui MK, Teitsson S, Juarez-Garcia A, Penrod JR. Using Mixture Cure Models to Improve Survival Extrapolations from Early Follow-up Data for Nivolumab in NSCLC. 2020. (Poster presentation at ISPOR EU 2021 conference)
+
+# Teaching
+
+- HAD5308H: Evidence Synthesis: Systematic Reviews and Meta-Analysis
