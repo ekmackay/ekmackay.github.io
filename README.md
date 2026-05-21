@@ -12,6 +12,10 @@ For a recent perspective on evaluating treatments for rare indications and the b
 
 I also enjoy doing film photography in my free time and <a href="/photography.html">a gallery of some of my photos can be found here</a>.
 
+# Upcoming Talks
+
+- **Mackay EK**, Boyne DJ. Small Sample Challenges for Comparative Efficacy Research in Rare Diseases: Towards Best Practices. (Upcoming talk at SSC 2026 in Hamilton, ON; session: "Challenges in Precision Medicine, including Precision Medicine for Rare Diseases")
+
 # Recent Conference Oral Presentations
 
 - **Mackay EK**, Springford A. The Challenge of Precision Medicine in Oncology: Bayesian Solutions for a Changing Landscape in Health Technology Assessment. (Talk at the Bayesian Biostatistics Conference--Bayes 2025--in Leiden, NL)
