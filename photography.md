@@ -14,6 +14,6 @@
 
 <a href="/docs/assets/images/photo016.png">![Photo 016](/docs/assets/images/photo016_thumb.png)</a> <a href="/docs/assets/images/photo018.png">![Photo 018](/docs/assets/images/photo018_thumb.png)</a> <a href="/docs/assets/images/photo020.png">![Photo 020](/docs/assets/images/photo020_thumb.png)</a>  
 
-<a href="/docs/assets/images/photo025.png">![Photo 025](/docs/assets/images/photo025_thumb.png)</a> <a href="/docs/assets/images/photo025.png">![Photo 026](/docs/assets/images/photo026_thumb.png)</a>  
+<a href="/docs/assets/images/photo025.png">![Photo 025](/docs/assets/images/photo025_thumb.png)</a> <a href="/docs/assets/images/photo026.png">![Photo 026](/docs/assets/images/photo026_thumb.png)</a>  
 
 <a href="/docs/assets/images/photo022.png">![Photo 022](/docs/assets/images/photo022_thumb.png)</a> <a href="/docs/assets/images/photo023.png">![Photo 023](/docs/assets/images/photo023_thumb.png)</a>  
