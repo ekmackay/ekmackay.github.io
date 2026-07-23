@@ -14,10 +14,11 @@ I also enjoy doing film photography in my free time and <a href="/photography.ht
 
 # Upcoming Talks
 
-- **Mackay EK**, Boyne DJ. Small Sample Challenges for Comparative Efficacy Research in Rare Diseases: Towards Best Practices. (Upcoming talk at SSC 2026 in Hamilton, ON; session: "Challenges in Precision Medicine, including Precision Medicine for Rare Diseases")
+- **Mackay EK**, Boyne DJ. Population-adjusted Indirect Comparisons in Subpopulations with Incomplete Data: A Novel Bayesian Hierarchical Modelling Approach. (Upcoming talk at the Bayesian Biostatistics Conference--Bayes 2026--in Leiden, NL)
 
 # Recent Conference Oral Presentations
 
+- **Mackay EK**, Boyne DJ. Small Sample Challenges for Comparative Efficacy Research in Rare Diseases: Towards Best Practices. (Upcoming talk at SSC 2026 in Hamilton, ON; session: "Challenges in Precision Medicine, including Precision Medicine for Rare Diseases")
 - **Mackay EK**, Springford A. The Challenge of Precision Medicine in Oncology: Bayesian Solutions for a Changing Landscape in Health Technology Assessment. (Talk at the Bayesian Biostatistics Conference--Bayes 2025--in Leiden, NL)
 - **Mackay EK**, Springford A, Dias S. Indirect Treatment Comparison of Larotrectinib vs Entrectinib in NTRK-Fusion Solid Tumors: Demonstration of a Novel Bayesian Hierarchical Modelling Approach for Basket Trials. (Podium presentation at ISPOR Europe 2024 in Barcelona, Spain; part of "Addressing Uncertainty and Bias in Comparative Effectiveness Analysis" session)
 - **Mackay EK**, Springford A, Dias S. Bayesian Hierarchical Modelling Approaches to Indirect Treatment Comparisons between Single-arm Basket Trials: An Application to NTRK-fusion Solid Tumours (Presented at the Bayesian Biostatistics Conference--Bayes 2024--in Rockville, MD)
